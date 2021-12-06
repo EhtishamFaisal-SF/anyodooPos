@@ -9,7 +9,7 @@
 
         <xpath expr="//field[@name='website']" position="before">
           <field name="logo" />
-          <field name="buisness_type" />
+          <field name="business_type" />
           <field name="cr" />
           <field name="subscription_start_date" />
           <field name="subscription_end_date" />

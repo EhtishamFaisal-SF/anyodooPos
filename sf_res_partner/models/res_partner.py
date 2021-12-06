@@ -12,8 +12,8 @@ class ResPartner(models.Model):
 	logo = fields.Char(
 	    string='Logo',
 	)
-	buisness_type = fields.Char(
-	    string='Buisness Type',
+	business_type = fields.Char(
+	    string='Business Type',
 	)
 
 	cr = fields.Char(
